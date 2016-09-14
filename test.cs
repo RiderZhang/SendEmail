@@ -9,7 +9,7 @@ namespace SendEmail
     {
         public void Login()
         {
-            
+            string r = "";
         }
     }
 }
