@@ -1,0 +1,10 @@
+C:\Users\admin.admin-PC\Desktop\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\admin.admin-PC\Desktop\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\admin.admin-PC\Desktop\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\admin.admin-PC\Desktop\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+C:\Users\admin.admin-PC\Desktop\SendEmail\SendEmail\obj\Debug\SendEmail.csprojResolveAssemblyReference.cache
+C:\Users\admin.admin-PC\Desktop\需求文档\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\admin.admin-PC\Desktop\需求文档\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+C:\Users\admin.admin-PC\Desktop\需求文档\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\admin.admin-PC\Desktop\需求文档\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\admin.admin-PC\Desktop\需求文档\SendEmail\SendEmail\obj\Debug\SendEmail.csprojResolveAssemblyReference.cache
